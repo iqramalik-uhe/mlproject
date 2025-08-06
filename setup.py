@@ -21,7 +21,6 @@ setup(
 name='mlproject',
 version='0.0.1',
 author='Iqra Ashraf Malik',
-author_name='iqramalikashraf694@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 )
