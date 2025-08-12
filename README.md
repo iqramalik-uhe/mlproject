@@ -1,1 +1,1 @@
-## Studebt Performance Indicator
+## Student Performance Indicator
